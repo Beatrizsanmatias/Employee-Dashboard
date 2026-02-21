@@ -6,7 +6,7 @@ A modern internal employee portal built for public sector organisations, designe
 
 ## 📌 Project Overview
 
-This project was built as a portfolio piece inspired by real experience working within a public sector environment. The goal was to reimagine what a modern internal employee portal could look like — replacing outdated, fragmented tools with a clean, intuitive dashboard that non-technical staff can use comfortably.
+This project was built as a portfolio piece inspired by real experience working within a public sector environment. The goal was to reimagine what a modern internal employee portal could look like, replacing outdated, fragmented tools with a clean, intuitive dashboard that non-technical staff can use comfortably.
 
 ---
 
