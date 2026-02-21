@@ -50,7 +50,7 @@ This project was built as a portfolio piece inspired by real experience working 
 git clone https://github.com/Beatrizsanmatias/Employee-Dashboard.git
 
 # Navigate into the project
-cd employee-portal
+cd Employee-Dashboard
 
 # Install dependencies
 npm install
